@@ -14,7 +14,8 @@ In the following project it will be processed and analyzed the relationship betw
 Therefore, the first part of the project is focused in the extraction, treatment and loading of the data. In order to build the final database, we used several sources such as: Web Scrapping to obtain the Inflation Index from an economical specialized portal, CSV import through Pandas library from specialized sources…etc. 
 Following this, we proceeded to clean up, harmonize, normalize and summarize the data in a single database in order to achieve one standardized Dataframe to work with.
 This first segment (and almost the entire project) has been made through Python language, using a wide range of libraries: NumPy, Pandas, Seaborn, Matplotlib…etc.
-STATS AND VISUALIZATION
+
+## STATS AND VISUALIZATION
 After that, once we have the final Dataframes, we use kit to build a statistic model and visualization through Matplotlib, Seaborn, Plotly and the software Microsoft PowerBi.
 Hence, in this part we start to elaborate our analysis:
 So, we start making a correlation matrix towards achieve a proper general view on our variables. Later we start making some relations through different kinds of visualization, such as bar plots, line plots, scatterplots…etc.
