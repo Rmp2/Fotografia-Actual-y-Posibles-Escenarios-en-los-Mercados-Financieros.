@@ -4,7 +4,7 @@
 
 In the following project it will be processed and analyzed the relationship between six key elements of the global economic environment: 
 -	The stocks represented in the S&P 500
--	The world growth represented by the MSCI World ETF
+-	The world growth represented by the MSCI World ETF 
 -	The gold prices
 -	The Brent oil prices
 -	The Inflation Index
